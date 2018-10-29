@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ganpat Health Care</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="choose_your_action">Choose Your Action</string>
+    <string name="fetch_details">fetch details</string>
+    <string name="add_new_data">add new data</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="id">ID</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="namehint">Name</string>
+    <string name="showbtn">Show</string>
+    <string name="updatebtn">Update</string>
+</resources>
